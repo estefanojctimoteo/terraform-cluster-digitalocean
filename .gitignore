@@ -1,0 +1,6 @@
+iac/terraform.tfvars
+iac/.terraform
+iac/kube_config.yaml
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
